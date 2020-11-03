@@ -1,0 +1,7 @@
+com\opstty\AppDriver.class
+com\opstty\job\ShowAllSpecies.class
+com\opstty\reducer\IntSumReducer.class
+com\opstty\job\WordCount.class
+com\opstty\mapper\AllSpeciesMapper.class
+com\opstty\mapper\TokenizerMapper.class
+com\opstty\reducer\AllSpeciesReducer.class
